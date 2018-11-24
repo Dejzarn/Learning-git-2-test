@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dejzarn/Learning-git-2-test/issues"
   },
-  "homepage": "https://github.com/Dejzarn/Learning-git-2-test#readme"
+  "homepage": "https://github.com/Dejzarn/Learning-git-2-test#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
 }
