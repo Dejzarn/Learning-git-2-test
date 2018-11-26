@@ -1,5 +1,5 @@
 test.html 
-/.sass-cache
+.sass-cache
 # Logs
 logs
 *.log
